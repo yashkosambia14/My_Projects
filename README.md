@@ -1,7 +1,7 @@
 
 # Yash Kosambia
 
-An object oriented software developer with full-stack as my Goal, Currently persuing Master in Computer Science at Stevens Institute of Technology, Hoboken. 
+An object oriented software developer with full-stack as my goal, Currently persuing Master in Computer Science at Stevens Institute of Technology, Hoboken. 
 
 
 ## Skills and Technologies 
@@ -53,9 +53,6 @@ Goal of the project
 4. To take entered data and arranges it to build a story template.
 
 
-Procedures on how to write this mini-project
-
-
 The program generates a random number from 1 to 10, or 1 to 100 any range that is specified by the user and the user must guess the number. Every time a user’s guess is wrong they are prompted with hints to make it easier for them to guess the number but at the cost of increasing the number of guess.
 
 
@@ -73,7 +70,7 @@ Challenges to do
 
 ## Project 03   [Machine Learning]
 
-Goal of Project
+Goal of the Project
 
 This python project is a good starter of machine learning using datasets. 
 
