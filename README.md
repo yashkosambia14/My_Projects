@@ -33,27 +33,13 @@ Part 1: Ask the user to enter data. Save the user input data to variables.
  
 
 Ask the user to “Choose a noun: ”
- 
-
 Ask the user to “Choose a plural noun: ”
- 
-
 Ask the user to “Name a place: ”
- 
-
 Ask the user to “Choose an adjective (Describing word): ”
- 
-
 Ask the user to “Choose a noun: ”
  
 
- 
-
 Part 2: Display ALL the user input data using the print function and add some text using the concatenation. 
-
- 
-
-
 Given that noun and p-noun carry the first and second user input data from part1
 
 
