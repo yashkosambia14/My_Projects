@@ -1,9 +1,6 @@
 /* 
 
-CS 546 A
-YASH KOSAMBIA
-CWID - 10475286 
-LAB 1
+Javascript Practice Project
 
 */
 
@@ -66,7 +63,6 @@ const questionFour = function questionFour(num) {
 module.exports = {
   firstName: "YASH",
   lastName: "KOSAMBIA",
-  studentId: "10475286",
   questionOne,
   questionTwo,
   questionThree,
