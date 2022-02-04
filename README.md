@@ -97,3 +97,13 @@ The objectives of this project are:
 4. How to build and train LSTM model using Keras from tensor flow.
 5. How to load dataset into Python environment.
 6. How to visualize your predicted data. 
+
+
+## Project 05 [ Javascript Practice ]
+
+The goal of this project is to understand the javascriot syntax and write some functions that return following once called. 
+
+1. Function 1 - Sum of Squares of Array 
+2. Function 2 - A recursive function to find the Fibonacchi series
+3. Function 3 - Number of Vowels in a given string
+4. Function 4 - Factorial of a given Input 
