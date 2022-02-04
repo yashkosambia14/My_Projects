@@ -101,7 +101,7 @@ The objectives of this project are:
 
 ## Project 05 [ Javascript Practice ]
 
-The goal of this project is to understand the javascriot syntax and write some functions that return following once called. 
+The goal of this project is to understand the javascript syntax and write some functions that returns following once called. 
 
 1. Function 1 - Sum of Squares of Array 
 2. Function 2 - A recursive function to find the Fibonacchi series
