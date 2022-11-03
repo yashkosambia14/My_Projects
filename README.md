@@ -1,7 +1,7 @@
 
 # Yash Kosambia
 
-An object oriented software developer with full-stack as my goal, Currently persuing Master in Computer Science at Stevens Institute of Technology, Hoboken. 
+An object oriented software developer with full-stack as my goal, currently persuing Master's in Computer Science at Stevens Institute of Technology, Hoboken. 
 
 
 ## Skills and Technologies 
@@ -18,6 +18,7 @@ Autonomous Robotics Systems
 DBMS
 
 Java
+
 ## Project 01   [ Basic User Interface to understand the python and its working ]
 
 Goal of the Project
@@ -29,8 +30,6 @@ To take entered data and arranges it to build a story template.
 Procedures on how to write this mini-project
 
 Part 1: Ask the user to enter data. Save the user input data to variables. 
-
- 
 
 Ask the user to “Choose a noun: ”
 Ask the user to “Choose a plural noun: ”
